@@ -164,14 +164,6 @@ Exemples :
 
 ---
 
-# 📷 Aperçu du Dashboard
-
-> Ajouter ici des captures d’écran du dashboard Power BI.
-
-Exemple :
-
-```md
-![Dashboard](images/dashboard.png)
 ```
 
 ---
