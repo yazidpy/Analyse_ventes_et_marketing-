@@ -154,14 +154,6 @@ Exemples :
 
 ---
 
-# 🔮 Perspectives d’Amélioration
-
-* Intégration de données en temps réel
-* Ajout de Machine Learning
-* Analyse prédictive
-* Détection du churn client
-* Automatisation des rapports
-
 ---
 
 ```
