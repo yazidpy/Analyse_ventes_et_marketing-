@@ -172,14 +172,6 @@ Le dataset contient :
 
 ---
 
-# 👨‍💻 Auteur
-
-**Yazid Aliche**
-
-* Data & AI Enthusiast
-* Business Intelligence Developer
-* Power BI Developer
-
 ---
 
 # ⭐ Conclusion
